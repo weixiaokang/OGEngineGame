@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game.pvr.ccz" type="pvrccz" width="512" height="256" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:751cb29e5738d80a48bfe6dc08d4a92f$ -->
+    <textureregion id="0" src="btn_again_01.png" x="303" y="27" width="78" height="38" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="78" srcheight="38"/>
+    <textureregion id="1" src="btn_again_02.png" x="303" y="67" width="60" height="30" rotated="false" trimmed="true" srcx="9" srcy="4" srcwidth="78" srcheight="38"/>
+    <textureregion id="2" src="btn_back_01.png" x="383" y="42" width="76" height="37" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="76" srcheight="37"/>
+    <textureregion id="3" src="btn_back_02.png" x="2" y="148" width="58" height="29" rotated="false" trimmed="true" srcx="9" srcy="4" srcwidth="76" srcheight="37"/>
+    <textureregion id="4" src="btn_start_01.png" x="423" y="2" width="78" height="38" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="78" srcheight="38"/>
+    <textureregion id="5" src="btn_start_02.png" x="2" y="179" width="60" height="28" rotated="false" trimmed="true" srcx="8" srcy="5" srcwidth="78" srcheight="38"/>
+    <textureregion id="6" src="game_model.png" x="2" y="87" width="251" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="251" srcheight="59"/>
+    <textureregion id="7" src="game_tip.png" x="2" y="2" width="299" height="83" rotated="false" trimmed="true" srcx="4" srcy="10" srcwidth="309" srcheight="103"/>
+    <textureregion id="8" src="game_titel.png" x="303" y="2" width="118" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="23"/>
+</texture>

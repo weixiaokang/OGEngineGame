@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_01.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:88f2d723b12ddfe872ef307da6925ce6$ -->
+    <textureregion id="0" src="bar_down.png" x="572" y="531" width="86" height="400" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="86" srcheight="400"/>
+    <textureregion id="1" src="bar_up.png" x="484" y="531" width="86" height="400" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="86" srcheight="400"/>
+    <textureregion id="2" src="brid_yellow_01.png" x="966" y="74" width="48" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="34"/>
+    <textureregion id="3" src="brid_yellow_02.png" x="966" y="38" width="48" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="34"/>
+    <textureregion id="4" src="brid_yellow_03.png" x="966" y="2" width="48" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="34"/>
+    <textureregion id="5" src="game_bg_day.png" x="2" y="2" width="480" height="1000" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="1000"/>
+    <textureregion id="6" src="game_floor.png" x="484" y="2" width="480" height="160" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="160"/>
+    <textureregion id="7" src="game_medal_01.png" x="484" y="933" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="8" src="game_medal_02.png" x="937" y="467" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="9" src="game_medal_03.png" x="937" y="403" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="10" src="game_medal_04.png" x="937" y="339" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="11" src="game_over.png" x="484" y="419" width="288" height="73" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="288" srcheight="73"/>
+    <textureregion id="12" src="game_ready.png" x="484" y="336" width="288" height="81" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="288" srcheight="81"/>
+    <textureregion id="13" src="game_result_bg.png" x="484" y="164" width="332" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="332" srcheight="170"/>
+    <textureregion id="14" src="game_start_01.png" x="774" y="429" width="161" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="161" srcheight="88"/>
+    <textureregion id="15" src="game_start_02.png" x="774" y="339" width="161" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="161" srcheight="88"/>
+    <textureregion id="16" src="game_tap_tip.png" x="818" y="164" width="200" height="173" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="173"/>
+</texture>

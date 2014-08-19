@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+                <string name="app_name" >别踩白块儿(OG)
+                </string>
+            </file>
+        </source>
+        <source path="G:\android-program\Game\oGEngineDeom_block\build\generated\res\rs\debug" />
+        <source path="G:\android-program\Game\oGEngineDeom_block\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\src\debug\res" />
+    </dataSet>
+
+</merger>

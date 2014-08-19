@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\src\main\assets" >
+            <file
+                name="gfx/game.java"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\assets\gfx\game.java" />
+            <file
+                name="gfx/game.pvr.ccz"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\assets\gfx\game.pvr.ccz" />
+            <file
+                name="gfx/game.xml"
+                path="G:\android-program\Game\oGEngineDeom_block\src\main\assets\gfx\game.xml" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="G:\android-program\Game\oGEngineDeom_block\src\debug\assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="G:\android-program\Game\oGEngineDemo_flappyBird\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0-rc1\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets" >
+            <file
+                name="gfx/game_01.java"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\gfx\game_01.java" />
+            <file
+                name="gfx/game_01.pvr.ccz"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\gfx\game_01.pvr.ccz" />
+            <file
+                name="gfx/game_01.xml"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\gfx\game_01.xml" />
+            <file
+                name="mfx/mfx_die.ogg"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\mfx\mfx_die.ogg" />
+            <file
+                name="mfx/mfx_hit.ogg"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\mfx\mfx_hit.ogg" />
+            <file
+                name="mfx/mfx_point.ogg"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\mfx\mfx_point.ogg" />
+            <file
+                name="mfx/mfx_swooshing.ogg"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\mfx\mfx_swooshing.ogg" />
+            <file
+                name="mfx/mfx_wing.ogg"
+                path="G:\android-program\Game\oGEngineDemo_flappyBird\src\main\assets\mfx\mfx_wing.ogg" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="G:\android-program\Game\oGEngineDemo_flappyBird\src\debug\assets" />
+    </dataSet>
+
+</merger>

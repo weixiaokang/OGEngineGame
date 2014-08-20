@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/OrangeEngine_GLES2_v2.1/OrangeEngine_GLES2_v2.1.iml" filepath="$PROJECT_DIR$/OrangeEngine_GLES2_v2.1/OrangeEngine_GLES2_v2.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/oGEngineDemo_flappyBird/oGEngineDemo_flappyBird.iml" filepath="$PROJECT_DIR$/oGEngineDemo_flappyBird/oGEngineDemo_flappyBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oGEngineDemo_plane/oGEngineDemo_plane.iml" filepath="$PROJECT_DIR$/oGEngineDemo_plane/oGEngineDemo_plane.iml" />
       <module fileurl="file://$PROJECT_DIR$/oGEngineDeom_block/oGEngineDeom_block.iml" filepath="$PROJECT_DIR$/oGEngineDeom_block/oGEngineDeom_block.iml" />
     </modules>
   </component>

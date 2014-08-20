@@ -8,8 +8,55 @@ should evaluate whether these are still needed in your project and if
 so manually move them:
 
 * Default.og
-* doc\
-* doc\使用OGEngine开发别踩白块儿.doc
+* ic_launcher-web.png
+* image\
+* image\ui\
+* image\ui\Benemy_01.png
+* image\ui\Benemy_02.png
+* image\ui\Benemy_03.png
+* image\ui\Benemy_04.png
+* image\ui\Benemy_05.png
+* image\ui\Benemy_06.png
+* image\ui\Benemy_07.png
+* image\ui\Benemy_08.png
+* image\ui\Benemy_09.png
+* image\ui\Menemy_01.png
+* image\ui\Menemy_02.png
+* image\ui\Menemy_03.png
+* image\ui\Menemy_04.png
+* image\ui\Menemy_05.png
+* image\ui\SEnemy_01.png
+* image\ui\SEnemy_02.png
+* image\ui\SEnemy_03.png
+* image\ui\SEnemy_04.png
+* image\ui\SEnemy_05.png
+* image\ui\bg.png
+* image\ui\bomb.png
+* image\ui\boom.png
+* image\ui\bt_bomb.png
+* image\ui\bullet.png
+* image\ui\et_01.png
+* image\ui\et_02.png
+* image\ui\et_03.png
+* image\ui\et_04.png
+* image\ui\game_medal_01.png
+* image\ui\game_medal_02.png
+* image\ui\game_medal_03.png
+* image\ui\game_medal_04.png
+* image\ui\game_over.png
+* image\ui\game_result_bg.png
+* image\ui\game_start_01.png
+* image\ui\plane_01.png
+* image\ui\plane_02.png
+* image\ui\plane_03.png
+* image\ui\plane_04.png
+* image\ui\plane_05.png
+* image\ui\plane_06.png
+* image\ui\start_1.png
+* image\ui\start_2.png
+* image\ui\start_3.png
+* image\ui\stop_01.png
+* image\ui\stop_02.png
 * proguard-project.txt
 
 Replaced Jars with Dependencies:
@@ -29,11 +76,11 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => oGEngineDeom_block\src\main\AndroidManifest.xml
-* assets\ => oGEngineDeom_block\src\main\assets\
-* libs\orangeengine_gles2_v1.4.jar => oGEngineDeom_block\libs\orangeengine_gles2_v1.4.jar
-* res\ => oGEngineDeom_block\src\main\res\
-* src\ => oGEngineDeom_block\src\main\java\
+* AndroidManifest.xml => oGEngineDemo_plane\src\main\AndroidManifest.xml
+* assets\ => oGEngineDemo_plane\src\main\assets\
+* libs\orangeengine_gles2_v1.4.jar => oGEngineDemo_plane\libs\orangeengine_gles2_v1.4.jar
+* res\ => oGEngineDemo_plane\src\main\res\
+* src\ => oGEngineDemo_plane\src\main\java\
 
 Missing Android Support Repository:
 -----------------------------------

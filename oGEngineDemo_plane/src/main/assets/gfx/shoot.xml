@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="shoot.pvr.ccz" type="pvrccz" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:67c67092e42c49f8a6392f4cdca11021$ -->
+    <textureregion id="0" src="Benemy_01.png" x="754" y="992" width="165" height="250" rotated="false" trimmed="true" srcx="3" srcy="2" srcwidth="171" srcheight="256"/>
+    <textureregion id="1" src="Benemy_02.png" x="486" y="765" width="165" height="256" rotated="false" trimmed="true" srcx="3" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="2" src="Benemy_03.png" x="800" y="478" width="165" height="256" rotated="false" trimmed="true" srcx="3" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="3" src="Benemy_04.png" x="486" y="249" width="167" height="256" rotated="false" trimmed="true" srcx="2" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="4" src="Benemy_05.png" x="770" y="736" width="165" height="254" rotated="false" trimmed="true" srcx="3" srcy="1" srcwidth="171" srcheight="256"/>
+    <textureregion id="5" src="Benemy_06.png" x="486" y="507" width="165" height="256" rotated="false" trimmed="true" srcx="3" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="6" src="Benemy_07.png" x="2" y="858" width="163" height="256" rotated="false" trimmed="true" srcx="4" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="7" src="Benemy_08.png" x="819" y="220" width="171" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="171" srcheight="256"/>
+    <textureregion id="8" src="Benemy_09.png" x="655" y="358" width="143" height="202" rotated="false" trimmed="true" srcx="14" srcy="27" srcwidth="171" srcheight="256"/>
+    <textureregion id="9" src="Menemy_01.png" x="167" y="983" width="71" height="89" rotated="false" trimmed="true" srcx="2" srcy="5" srcwidth="75" srcheight="105"/>
+    <textureregion id="10" src="Menemy_02.png" x="937" y="915" width="73" height="95" rotated="false" trimmed="true" srcx="1" srcy="7" srcwidth="75" srcheight="105"/>
+    <textureregion id="11" src="Menemy_03.png" x="367" y="858" width="73" height="93" rotated="false" trimmed="true" srcx="2" srcy="8" srcwidth="75" srcheight="105"/>
+    <textureregion id="12" src="Menemy_04.png" x="937" y="816" width="73" height="97" rotated="false" trimmed="true" srcx="0" srcy="4" srcwidth="75" srcheight="105"/>
+    <textureregion id="13" src="Menemy_05.png" x="240" y="983" width="65" height="78" rotated="false" trimmed="true" srcx="64" srcy="110" srcwidth="171" srcheight="256"/>
+    <textureregion id="14" src="SEnemy_01.png" x="967" y="607" width="51" height="38" rotated="false" trimmed="true" srcx="60" srcy="109" srcwidth="171" srcheight="256"/>
+    <textureregion id="15" src="SEnemy_02.png" x="967" y="567" width="51" height="38" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="51" srcheight="38"/>
+    <textureregion id="16" src="SEnemy_03.png" x="967" y="527" width="51" height="38" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="51" srcheight="38"/>
+    <textureregion id="17" src="SEnemy_04.png" x="967" y="478" width="51" height="47" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="51" srcheight="47"/>
+    <textureregion id="18" src="SEnemy_05.png" x="967" y="692" width="47" height="40" rotated="false" trimmed="true" srcx="66" srcy="129" srcwidth="171" srcheight="256"/>
+    <textureregion id="19" src="bg.png" x="2" y="2" width="482" height="854" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="482" srcheight="854"/>
+    <textureregion id="20" src="bomb.png" x="435" y="1078" width="60" height="103" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="103"/>
+    <textureregion id="21" src="boom.png" x="568" y="1023" width="59" height="51" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="59" srcheight="51"/>
+    <textureregion id="22" src="bt_bomb.png" x="440" y="1023" width="63" height="53" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="53"/>
+    <textureregion id="23" src="bullet.png" x="505" y="1023" width="61" height="93" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="61" srcheight="93"/>
+    <textureregion id="24" src="bullet1.png" x="1009" y="181" width="11" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="11" srcheight="23"/>
+    <textureregion id="25" src="bullet2.png" x="996" y="181" width="11" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="11" srcheight="23"/>
+    <textureregion id="26" src="et_01.png" x="653" y="910" width="99" height="120" rotated="false" trimmed="true" srcx="35" srcy="68" srcwidth="171" srcheight="256"/>
+    <textureregion id="27" src="et_02.png" x="653" y="719" width="115" height="150" rotated="false" trimmed="true" srcx="28" srcy="54" srcwidth="171" srcheight="256"/>
+    <textureregion id="28" src="et_03.png" x="653" y="562" width="117" height="155" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="117" srcheight="155"/>
+    <textureregion id="29" src="et_04.png" x="820" y="2" width="192" height="177" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="192" srcheight="177"/>
+    <textureregion id="30" src="game_medal_01.png" x="167" y="1074" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="31" src="game_medal_02.png" x="371" y="1054" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="32" src="game_medal_03.png" x="240" y="1063" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="33" src="game_medal_04.png" x="307" y="1054" width="62" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="62"/>
+    <textureregion id="34" src="game_over.png" x="486" y="174" width="288" height="73" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="288" srcheight="73"/>
+    <textureregion id="35" src="game_result_bg.png" x="486" y="2" width="332" height="170" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="332" srcheight="170"/>
+    <textureregion id="36" src="game_start_01.png" x="655" y="268" width="161" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="161" srcheight="88"/>
+    <textureregion id="37" src="plane_01.png" x="267" y="858" width="98" height="123" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="98" srcheight="123"/>
+    <textureregion id="38" src="plane_02.png" x="167" y="858" width="98" height="123" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="98" srcheight="123"/>
+    <textureregion id="39" src="plane_03.png" x="921" y="1137" width="98" height="123" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="98" srcheight="123"/>
+    <textureregion id="40" src="plane_04.png" x="921" y="1012" width="98" height="123" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="98" srcheight="123"/>
+    <textureregion id="41" src="plane_05.png" x="367" y="953" width="71" height="99" rotated="false" trimmed="true" srcx="2" srcy="3" srcwidth="75" srcheight="105"/>
+    <textureregion id="42" src="plane_06.png" x="937" y="736" width="77" height="78" rotated="false" trimmed="true" srcx="58" srcy="109" srcwidth="171" srcheight="256"/>
+    <textureregion id="43" src="start_1.png" x="967" y="647" width="47" height="43" rotated="false" trimmed="true" srcx="0" srcy="0" srcwidth="175" srcheight="43"/>
+    <textureregion id="44" src="start_2.png" x="653" y="871" width="107" height="37" rotated="false" trimmed="true" srcx="0" srcy="6" srcwidth="175" srcheight="43"/>
+    <textureregion id="45" src="start_3.png" x="819" y="181" width="175" height="37" rotated="false" trimmed="true" srcx="0" srcy="5" srcwidth="175" srcheight="43"/>
+    <textureregion id="46" src="stop_01.png" x="776" y="221" width="41" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="41" srcheight="45"/>
+    <textureregion id="47" src="stop_02.png" x="776" y="174" width="41" height="45" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="41" srcheight="45"/>
+</texture>

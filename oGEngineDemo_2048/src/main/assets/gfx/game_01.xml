@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="game_01.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c770310bd4fd78aa45a8458e3b998489$ -->
+    <textureregion id="0" src="game_btn_exit_01.png" x="711" y="92" width="225" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="88"/>
+    <textureregion id="1" src="game_btn_exit_02.png" x="484" y="92" width="225" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="88"/>
+    <textureregion id="2" src="game_btn_help_01.png" x="711" y="2" width="225" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="88"/>
+    <textureregion id="3" src="game_btn_help_02.png" x="484" y="2" width="225" height="88" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="225" srcheight="88"/>
+    <textureregion id="4" src="game_help_bg.png" x="2" y="2" width="480" height="580" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="480" srcheight="580"/>
+    <textureregion id="5" src="game_logo.png" x="440" y="584" width="141" height="118" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="141" srcheight="118"/>
+    <textureregion id="6" src="game_rect_bg.png" x="2" y="584" width="436" height="435" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="436" srcheight="435"/>
+    <textureregion id="7" src="game_roundRect.png" x="440" y="910" width="90" height="90" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="90" srcheight="90"/>
+    <textureregion id="8" src="game_score_bg_best.png" x="440" y="807" width="128" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="101"/>
+    <textureregion id="9" src="game_score_bg_now.png" x="440" y="704" width="128" height="101" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="101"/>
+</texture>

@@ -53,7 +53,7 @@ public class GameScene extends MatchScene implements IConstant {
 	private AnimatedSprite getReadySprite;
 	
 	private Text scoreText;
-	private int score = 1003782;
+	private int score = 10000001;
 	
 	private OverLayer mOverLayer;// 游戏结束层
 
@@ -209,7 +209,7 @@ public class GameScene extends MatchScene implements IConstant {
 		this.game_state = STATE_READY;
 		this.birdSprite.refreshState(game_state);
 		this.detachChild(mOverLayer);
-		this.score = 0;
+		this.score = 10000001;
 		updateScore(score);
 		this.birdSprite.setCollisionBar(false);
 		this.birdSprite.setCollisionFloor(false);

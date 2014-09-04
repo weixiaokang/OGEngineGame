@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Game.iml" filepath="$PROJECT_DIR$/Game.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OrangeEngine_GLES2_v2.1/OrangeEngine_GLES2_v2.1.iml" filepath="$PROJECT_DIR$/OrangeEngine_GLES2_v2.1/OrangeEngine_GLES2_v2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenu/ResideMenu.iml" filepath="$PROJECT_DIR$/ResideMenu/ResideMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResideMenuDemo/ResideMenuDemo.iml" filepath="$PROJECT_DIR$/ResideMenuDemo/ResideMenuDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/oGEngineDemo_2048/oGEngineDemo_2048.iml" filepath="$PROJECT_DIR$/oGEngineDemo_2048/oGEngineDemo_2048.iml" />
       <module fileurl="file://$PROJECT_DIR$/oGEngineDemo_flappyBird/oGEngineDemo_flappyBird.iml" filepath="$PROJECT_DIR$/oGEngineDemo_flappyBird/oGEngineDemo_flappyBird.iml" />

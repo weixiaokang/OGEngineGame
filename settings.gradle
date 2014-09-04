@@ -1,4 +1,4 @@
-include ':app', ':OrangeEngine_GLES2_v2.1'
+include ':app', ':ResideMenu', ':ResideMenuDemo'
 include ':oGEngineDemo_flappyBird'
 include ':oGEngineDeom_block'
 include ':oGEngineDemo_plane'

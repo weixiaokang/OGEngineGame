@@ -7,48 +7,18 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* Default.og
-* doc\
-* doc\使用OGEngine开发2048游戏.doc
-* ic_launcher-web.png
-* proguard-project.txt
-
-Replaced Jars with Dependencies:
---------------------------------
-The importer recognized the following .jar files as third party
-libraries and replaced them with Gradle dependencies instead. This has
-the advantage that more explicit version information is known, and the
-libraries can be updated automatically. However, it is possible that
-the .jar file in your project was of an older version than the
-dependency we picked, which could render the project not compileable.
-You can disable the jar replacement in the import wizard and try again:
-
-android-support-v4.jar => com.android.support:support-v4:+
+* hs_err_pid684.log
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => oGEngineDemo_2048\src\main\AndroidManifest.xml
-* assets\ => oGEngineDemo_2048\src\main\assets\
-* libs\orangeengine_gles2_v1.4.jar => oGEngineDemo_2048\libs\orangeengine_gles2_v1.4.jar
-* res\ => oGEngineDemo_2048\src\main\res\
-* src\ => oGEngineDemo_2048\src\main\java\
-
-Missing Android Support Repository:
------------------------------------
-Some useful libraries, such as the Android Support Library, are
-installed from a special Maven repository, which should be installed
-via the SDK manager.
-
-It looks like this library is missing from your SDK installation at:
-null
-
-To install it, open the SDK manager, and in the Extras category,
-select "Android Support Repository". You may also want to install the
-"Google Repository" if you want to use libraries like Google Play
-Services.
+* AndroidManifest.xml => leewuziqiUseFul\src\main\AndroidManifest.xml
+* assets\ => leewuziqiUseFul\src\main\assets\
+* libs\momark_android_sdk2012(v1.0.1).jar => leewuziqiUseFul\libs\momark_android_sdk2012(v1.0.1).jar
+* res\ => leewuziqiUseFul\src\main\res\
+* src\ => leewuziqiUseFul\src\main\java\
 
 Next Steps:
 -----------

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:background="@drawable/back">
+
+	<com.fairy.wuziqi.view.GameView
+		android:id="@+id/gobangview" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:background="@drawable/back"
+		tileSize="16" android:layout_weight="1" android:layout_marginLeft="3dip"
+		android:layout_marginRight="3dip" />
+
+	<include android:id="@+id/item_header" android:layout_width="fill_parent"
+		android:layout_alignParentTop="true" android:layout_height="40dip"
+		layout="@layout/game_base_header" />
+	<RelativeLayout android:id="@+id/item_relativelayout"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_marginTop="20dip" android:layout_below="@+id/item_header">
+		<ImageView android:id="@+id/item_write"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentLeft="true" android:layout_marginLeft="40dip"
+			android:gravity="center" android:layout_gravity="center"
+			android:layout_centerVertical="true" android:background="@drawable/whrite" />
+
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:layout_centerInParent="true"
+			android:gravity="center" android:textColor="#fff"
+			android:layout_gravity="center" android:textStyle="bold"
+			android:text="@string/game_heart" android:textSize="34sp" />
+
+		<ImageView android:id="@+id/item_black" android:gravity="center"
+			android:layout_gravity="center" android:layout_centerVertical="true"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"  android:layout_marginRight="40dip"
+			android:background="@drawable/black" />
+
+	</RelativeLayout>
+
+	<RelativeLayout android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:layout_centerInParent="true">
+		<TextView android:id="@+id/text" android:visibility="visible"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:layout_centerInParent="true" android:gravity="center_horizontal"
+			android:textColor="#FFFFFF" android:textStyle="bold" android:text="@string/game_heart"
+			android:textSize="26sp" />
+
+	</RelativeLayout>
+	<GridView android:id="@+id/gv_buttom_menu"
+		android:layout_alignParentBottom="true" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" android:visibility="gone">
+	</GridView>
+	<com.donson.momark.view.view.AdView
+		android:id="@+id/adView" android:layout_width="fill_parent"
+		android:layout_alignParentBottom="true"
+		android:visibility="visible"
+		android:layout_height="wrap_content" />
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <string name="hello">Hello World, mainActivity!</string>
+    <string name="Role_black">黑方</string>
+    <string name="Role_white">白方</string>
+    <string name="app_name">诺盾欢乐五子棋</string>
+    <string name="app_name_str">棋\t\t乐\t\t无\t\t穷</string>
+    <string name="game_heart">P\t/\tK</string>
+    <string name="game_start_str">开\t始\t对\t弈</string>
+	<string name="game_degree_str">棋\t盘\t设\t置</string>
+	<string name="game_help_str">游\t戏\t帮\t助</string>
+	<string name="game_exit_str">游\t戏\t退\t出</string>
+	<string name="game_degree_easy_str">小\t格\t大\t棋\t盘</string>
+	<string name="game_degree_hard_str">大\t格\t小\t棋\t盘</string>
+	 <string name="help_arrange_menu_item">游\t戏\t帮\t助</string>
+    <string name="help_message_menu_item">五\t子\t棋\t简\t介：\n\n五子棋是一种两人对弈的纯策略型汉族棋类益智游戏，，
+        是起源于中国古代的传统黑白棋种之一。容易上手，老少皆宜,主要流行于华人和汉字文化圈的国家以及欧美一些地区。
+        五子棋不仅能增强思维能力，提高智力，而且富含哲理，有助于修身养性。
+	\n\n五\t子\t棋\t规\t则：\n\n玩家将自己的棋子在横、竖、斜任意一个方向连续五个就是胜利者。
+	\n\n关\t于\t软\t件:\n\n作为开发爱好群体，
+		泰安诺盾网络致力于开发更具娱乐性的作品。如有需求,敬请咨询 18605385801
+		邮箱：83995@163.com
+    </string>
+</resources>

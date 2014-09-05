@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_degree_array">
+		<item>@string/game_degree_easy_str</item>
+		<item>@string/game_degree_hard_str</item>
+	</string-array>
+    <string-array name="grid_view_group">
+		<item>重玩</item>
+		<item>关于</item>
+		<item>主页</item>
+	</string-array>
+	
+</resources>
